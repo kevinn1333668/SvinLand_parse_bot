@@ -1,0 +1,5 @@
+aiogram==3.20.0.post0
+python-dotenv
+environs
+aiohttp==3.11.18
+beautifulsoup4==4.13.4
